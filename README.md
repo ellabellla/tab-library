@@ -22,5 +22,13 @@ Tabs not in any groups will be placed as bullet points under the main heading, w
    - https://github.com/ellabellla
 ```
 
+## Install
+1. clone the repo
+   - ```git clone https://github.com/ellabellla/tab-library.git``` 
+2. Go to the extensions page ```chrome://extensions```
+3. Enable developer mode
+   -  Click the developer mode toggle switch
+4. Click load unpacked and select the cloned repo's location 
+
 ## License
 This software is provided under the MIT license. [Click](LICENSE) here to view.
